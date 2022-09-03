@@ -1,6 +1,8 @@
 # real_dice
 
-A new Flutter project.
+Flutter project to create a Up-Down-Dice Application.
+
+<img src="screenshots/Dice-ss.png" width=300.0>
 
 ## Getting Started
 
